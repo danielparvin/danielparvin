@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello, world! 👋
 
+Check out some of my favorite tech learning resources [here](https://github.com/danielparvin/tech-learning-resources).
+
+- 🌱 I’m currently learning Java Spring Boot.
+- ⚡ Fun fact: I have a doctorate in piano.
 <!--
 **danielparvin/danielparvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
